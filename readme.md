@@ -29,3 +29,5 @@
 
 ##model:
 存放训练好的模型
+
+具体细节移步https://blog.csdn.net/u010606321/article/details/82501341
